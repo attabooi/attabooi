@@ -1,9 +1,9 @@
-### Hi there 👋  
-<div align=right>
+### Heyy 👋  
+<div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fattabooi%2Fhit-counter&count_bg=%23CE81FB&title_bg=%23000000&icon=aiqfome.svg&icon_color=%23EFB3B3&title=%2C%2C%2C&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-</div>
+
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 
 
 
-
+</div>
 
 <!--
 **attabooi/attabooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
