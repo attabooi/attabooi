@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Attabooi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attabooi&show_icons=true&theme=cobalt)
+![Attabooi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attabooi&show_icons=true&theme=merko)
 
 
 
